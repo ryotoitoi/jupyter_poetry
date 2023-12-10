@@ -1,0 +1,18 @@
+{
+    "dockerComposeFile": "../compose.yaml",
+    "workspaceFolder": "/app",
+    "service": "app",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "ms-python.python",
+            "ms-toolsai.jupyter",
+            "mechatroner.rainbow-csv",
+            "tamasfe.even-better-toml",
+            "ms-toolsai.jupyter-keymap",
+            "ms-toolsai.vscode-jupyter-slideshow"
+        ]
+      }
+    }
+  }
+  
