@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 numpyro = "^0.13.2"
 arviz = "^0.16.1"
+seaborn = "^0.13.0"
 
 
 [tool.poetry.group.dev.dependencies]
